@@ -10,7 +10,7 @@ driver = webdriver.Chrome(PATH)
 driver.get(misc.url)
 # driver.find_element(by.ID)
 # driver.manage().window().maximize()
-
+# driver.tools
 
 print(driver.title)
 driver.quit()
