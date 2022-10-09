@@ -37,4 +37,4 @@ driver.back()
 # driver.tools
 
 # print(driver.title)
-# driver.quit()
+driver.quit()
