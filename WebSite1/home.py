@@ -16,7 +16,7 @@ elem = driver.find_element(By.NAME, "q")
 elem.clear()
 elem.send_keys("pycon")
 elem.send_keys(Keys.RETURN)
-#whoop
+
 
 assert "No results found." not in driver.page_source
 driver.back()
