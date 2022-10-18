@@ -1,4 +1,4 @@
 
 
 # url = "https://techwithtim.net"
-url = "http://www.python.org"
+# url = "http://www.python.org"
