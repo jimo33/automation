@@ -1,3 +1,4 @@
-url = "http://www.python.org"
-url1 = "http://www.google.com"
+# url = "http://www.python.org"
+# url1 = "http://www.google.com"
 sauceLabs = "https://saucelabs.com/"
+
